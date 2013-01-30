@@ -6,7 +6,7 @@
     <name>Test App</name>
 
     <description>
-        This is test app generated using phone gap 2.3
+        This is test app generated using phone gap 2.3.. oops looks 2.3.0 not yet supported by build
     </description>
 
     <author href="http://speakless.org" email="support@speakless.org">
@@ -15,7 +15,7 @@
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version" value="2.3.0" />
+    <preference name="phonegap-version" value="2.2.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
